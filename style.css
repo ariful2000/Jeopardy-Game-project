@@ -1,0 +1,88 @@
+.menu {
+  position: relative;
+  width: 80%;
+  font-family: Helvetica ;
+  color: #d7a04b;
+  border-color: black;
+  background-color: #000;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menu td {
+  border: 1px solid #000;
+  background-color: #010a78;
+}
+
+.menu th {
+  border: 1px solid #000;
+  background-color: #010a78;
+  color: #fff;
+}
+
+
+a {
+  text-decoration: none;
+  color: #d7a04b;
+}
+
+.price {
+  font-size: 20px;
+}
+.card{
+  background-color: #001883;
+}
+.leadertable {
+  border-collapse: collapse;
+}
+
+.leaderboad th, td {
+  padding: 8px;
+}
+
+
+body {
+  background-color: rgb(128, 128, 216);
+  transition-duration: 1s;
+}
+
+table, th, td {
+  table-layout: fixed;
+  text-align: center;
+  border: 1px solid black;
+  width:90%;
+  height: 70px;
+}
+
+a {
+    text-decoration: none;
+    color: #d7a04b;
+}
+
+.price {
+    font-size: 30px;
+}
+
+.card{
+  background-color: #001883;
+}
+
+.page {
+  text-align: center;
+  font-size: 40px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 25px;
+}
+
+.header {
+  padding-top: 50px;
+  font-size: 45px;
+  font-family: monospace;
+  font-weight: bolder;
+}
+
+.form {
+  text-align: center;
+  font-size: 25px;
+}

@@ -1,0 +1,3 @@
+jack,2000
+potter,1600
+mike, 800
